@@ -1,3 +1,7 @@
-0 snap
-1 _background_noise_
-2 clap
+0 Background Noise
+1 一
+2 三
+3 二
+4 五
+5 四
+6 樓
